@@ -8,7 +8,7 @@ Welcome to HibbittsDesign.org – where over two decades of experience in softwa
 
 <details>
 
-<summary> <What’s happening these days? </summary>
+<summary> What’s happening these days? </summary>
  
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
