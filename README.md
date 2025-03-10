@@ -8,7 +8,7 @@ Welcome to HibbittsDesign.org – where over two decades of experience in softwa
 
 <details>
 
-<summary> What’s happening these days? </summary>
+<summary> Learn more about HibbittsDesignb.org </summary>
  
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
@@ -93,8 +93,6 @@ As someone who has benefited from informational interviews very early in his car
 
 [![GitHub Streak](https://github-readme-streak-stats-cyan-nine.vercel.app?user=paulhibbitts)](https://git.io/streak-stats)
 
-</details>
-
 ## Services provided
 To help increase adoption and help fund my open source work, I offer professional services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) projects to help open publishers, educators and others leverage Markdown software and workflows more effectively. Services include consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
@@ -121,3 +119,5 @@ Interested in financially supporting my open source work? I’d be honoured if y
     </td>
  </tr>
 </table>
+
+</details>
