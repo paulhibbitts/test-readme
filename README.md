@@ -8,7 +8,7 @@ Welcome to HibbittsDesign.org – where over two decades of experience in softwa
 
 <details>
 
-<summary>## What’s happening these days?</summary>
+<summary> <h2> What’s happening these days? </h2> </summary>
 
 ### 💻 Docsify Projects (docsify.js.org)
 A documentation-style platform for Markdown publishing that requires no Web server or build process, making it accessible to a broader audience.
